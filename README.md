@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Md. Amirul Islam
--  I’m a minimalist and interested in python and linux ...
+-  I’m a minimalist and interested in backend development with linux ...
 -  💞️ to develop website using Django 
 -  💞️ to develop API using Flask & FastAPI
 - amir.cse006@gmail.com
